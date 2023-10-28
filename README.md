@@ -1,47 +1,21 @@
-# Pasindu Sameera
+# 💫 About Me:
+👋 Hello, I'm Pasindu Sameera, a freelance Data Scientist on Upwork. I'm passionate about data and always eager to collaborate with like-minded individuals. Whether you're a data science student, a data analysis enthusiast, a developer, a machine learning engineer, or an MLOps and DevOps pro, I'm open to working together.<br><br>🔬 My current focus is on artificial intelligence, machine learning, and MLOps. If you have any questions related to data science or machine learning, don't hesitate to ask!<br><br>📧 Reach out to me at: [pasinduperera639@gmail.com](mailto:pasinduperera639@gmail.com)<br><br>💼 You can explore all of my projects in my [portfolio](portfolio-link).<br><br>🚀 Check out my GitHub repositories to see some of my latest work.<br><br>✍️ I'm a regular contributor on Medium, where I share insights and knowledge. If you want to delve into my experiences and skills, you can access my CV [here](cv-link).<br><br>Let's connect and explore the data-driven world together!<br>
 
-- **Student at University of Moratuwa ITUM**
-- **Freelance Data Scientist at Upwork**
-- **Colombo District, Western Province, Sri Lanka**
 
-## Summary
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Pasindu Sameera) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pasindu-perera-430b7b20a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@pasinduperera639) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21180416/pasindu-perera) 
 
-Passionate Freelance Data Scientist | Transforming Data into Strategic Triumph
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Pasindu Sameera&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pasindu Sameera&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu Sameera&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-**Top Skills:** Machine Learning, Deep Learning, Python
-**Languages:** English (Full Professional)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Pasindu Sameera&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Contact Information
+---
+[![](https://visitcount.itsvg.in/api?id=Pasindu Sameera&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- **Mobile:** +94773445994
-- **Email:** [pasinduperera639@gmail.com](mailto:pasinduperera639@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/pasindusameera-430b7b20a)
-
-## Experience
-
-### Upwork
-
-- **Freelance Data Scientist**
-- *October 2022 - Present (1 year 1 month)*
-- Sri Lanka
-
-### Gamma Pizzakraft Lanka Private Limited
-
-- **Customer Service Representative**
-- *July 2021 - November 2022 (1 year 5 months)*
-- Colombo District, Western Province, Sri Lanka
-- Customer Service Representative and Data analysis (Gamma Pizzakraft Lanka Private Limited) (Part time)
-  - Maintaining a positive, empathetic, and professional attitude toward customers at all times.
-  - Responding promptly to customer inquiries.
-  <!-- Add more experience details as needed -->
-
-## Education
-
-- **University of Moratuwa**
-  - *Information Technology-ITUM · (June 2022 - June 2025)*
-
-- **Coventry University**
-  - *Bachelor of Science - BSc(Hons), Data Science · (October 2021 - November 2024)*
-
-- **Nalanda College Colombo**
-  - *Physical Science Stream · (2006 - 2020)*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
